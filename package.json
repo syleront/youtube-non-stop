@@ -1,0 +1,20 @@
+{
+  "name": "youtube-non-stop",
+  "version": "1.0.0",
+  "description": "Userscript that allows you play youtube infininetely",
+  "main": "index.user.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syleront/youtube-non-stop.git"
+  },
+  "keywords": [
+    "youtube",
+    "userscript"
+  ],
+  "author": "Syleront",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syleront/youtube-non-stop/issues"
+  },
+  "homepage": "https://github.com/syleront/youtube-non-stop#readme"
+}
