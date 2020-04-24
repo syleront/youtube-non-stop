@@ -6,6 +6,8 @@
 // @run-at       document-start
 // @match        *://www.youtube.com/*
 // @grant        none
+// @copyright    2020, Syleront
+// @license      MIT
 // ==/UserScript==
 
 (() => {
